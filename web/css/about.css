@@ -1,0 +1,16 @@
+.img-item{
+    max-width: 40%;
+    margin: 0 auto;
+    display: block;
+}
+.carousel-text{
+    text-align: center;
+    color: black;
+}
+#deviz{
+    text-align: center;
+}
+
+#description{
+    text-align: justify;
+}

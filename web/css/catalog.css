@@ -1,0 +1,12 @@
+.row{
+    display: flex;
+    justify-content: space-between;
+
+}
+.item{
+    margin-bottom: 20px;
+}
+.class-img{
+    height: 30vh;
+    width: 100%;
+}
